@@ -16,7 +16,8 @@ source:
   # Additional properties that further specify the location of the artifacts.
   properties:
     branch: main
-    repository: https://github.com/ksivamuthu/aws-apprunner-coffee-shop
+    repository: https://github.com/maxctz/aws-apprunner-coffee-shop
+    # repository: https://github.com/ksivamuthu/aws-apprunner-coffee-shop
     # Optional: specify the name of an existing CodeStar Connections connection.
     # connection_name: a-connection
 
