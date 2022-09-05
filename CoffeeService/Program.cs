@@ -6,6 +6,7 @@ app.MapGet("/api/coffee", () => new List<dynamic> {
     new { CoffeeId = "cappucino", CoffeeName = "Cappucino" },
     new { CoffeeId = "latte", CoffeeName = "Latte" },
     new { CoffeeId = "mocha", CoffeeName = "Mocha" },
+    new { CoffeeId = "jelly", CoffeeName = "With Jelly" },
     new { CoffeeId = "americano", CoffeeName = "Americano" },
     new { CoffeeId = "macchiato", CoffeeName = "Macchiato" },
     new { CoffeeId = "frappe", CoffeeName = "Frappe" },
